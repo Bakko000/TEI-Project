@@ -12,7 +12,7 @@
                 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css" />
                 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
                 <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
-                <script src="JS/zoombar.js"></script>
+                
                 <script src="tooltip.js"></script>
                 <script src="imgjs.js"></script>
                 <script src="mark.js"></script>
@@ -64,7 +64,7 @@
                             <div class='legenda'>
                                 <h3>Legenda</h3>
                                 <ul class='legend-labels'>
-                                    <li><span></span>Correzione</li>
+                                    <li><span></span>Correzione editore</li>
                                     <li><span></span>Termine</li>
                                     <li><span></span>Glottonimo</li>
                                     <li><span></span>Es. linguistico</li>
