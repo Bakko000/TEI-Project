@@ -12,7 +12,7 @@ The project was validated with Xerces by follow command:
 $ java -cp "Xerces-J-bin.2.12.1/xerces-2_12_1/xml-apis.jar;Xerces-J-bin.2.12.1/xerces-2_12_1/xercesImpl.jar;Xerces-J-bin.2.12.1/xerces-2_12_1/xercesSamples.jar" dom.Counter prolusioni.xml
 ```
 
-XML and XSL files were transformed by Saxon-HE 10.3 to HTML file "<i>prolusioni.html</i>" by follow command:
+XML and XSL files were transformed with Saxon-HE 10.3 to HTML file "<i>prolusioni.html</i>" by follow command:
 
 ## XSL transform
 
