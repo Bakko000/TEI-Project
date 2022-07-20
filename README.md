@@ -1,10 +1,10 @@
 # Text Encoding (2021/22)
-Project contained in this <i>repository</i> was created for <b>Text Encoding</b> exam, coordinated by <i>Angelo Mario Del Grosso</i>, from students of Digital Humanities:
+Project contained in this <i>repository</i> has been created for <b>Text Encoding</b> exam, coordinated by <i>Angelo Mario Del Grosso</i>, from students of Digital Humanities:
 - <i>Corrado Baccheschi</i> (mat. 599107)
 
 - <i>Vincenzo Sammartino</i> (mat. 599203)  (repository : https://github.com/ilsamaritano/CodificaDiTesti)
 
-The project was validated with Xerces by follow command:
+The project has been validated with Xerces by follow command:
 
 ## Xerces validation
 
@@ -12,7 +12,7 @@ The project was validated with Xerces by follow command:
 $ java -cp "Xerces-J-bin.2.12.1/xerces-2_12_1/xml-apis.jar;Xerces-J-bin.2.12.1/xerces-2_12_1/xercesImpl.jar;Xerces-J-bin.2.12.1/xerces-2_12_1/xercesSamples.jar" dom.Counter prolusioni.xml
 ```
 
-XML and XSL files were transformed with Saxon-HE 10.3 to HTML file "<i>prolusioni.html</i>" by follow command:
+XML and XSL files has been transformed with Saxon-HE 10.3 to HTML file "<i>prolusioni.html</i>" by follow command:
 
 ## XSL transform
 
